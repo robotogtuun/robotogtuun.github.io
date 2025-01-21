@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.example.plawyer",
+			"sha256_cert_fingerprints": [
+				"68:CA:AD:5B:C7:97:31:88:98:AB:93:E1:7C:29:FD:E3:FA:C4:58:1B:92:43:78:91:7A:E5:A5:42:7D:12:87:26"
+			]
+		}
+	}
+]
